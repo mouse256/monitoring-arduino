@@ -1,0 +1,6 @@
+*.swp
+.pioenvs
+.piolibdeps
+.gradle
+.travis.yml
+

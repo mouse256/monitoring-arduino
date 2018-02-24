@@ -1,0 +1,37 @@
+****************
+Raw = 0.061783
+Thermistor resistance 661.419660
+1 Temperature: 101.882765*C
+Thermistor resistance 653.645710
+2 Temperature: 102.304228*C
+Thermistor resistance 720.087901
+3 Temperature: 98.880893*C
+Thermistor resistance 673.101880
+4 Temperature: 101.260378*C
+Thermistor resistance 643.113466
+5 Temperature: 102.884844*C
+****************
+Raw = 0.055922
+Thermistor resistance 689.276621
+1 Temperature: 100.419540*C
+Thermistor resistance 747.687951
+2 Temperature: 97.567616*C
+Thermistor resistance 677.558986
+3 Temperature: 101.026297*C
+Thermistor resistance 589.118282
+4 Temperature: 106.050551*C
+Thermistor resistance 688.159548
+5 Temperature: 100.476853*C
+****************
+Raw = 0.074481
+Thermistor resistance 670.318077
+1 Temperature: 101.407516*C
+Thermistor resistance 702.139766
+2 Temperature: 99.767432*C
+Thermistor resistance 713.350300
+3 Temperature: 99.210583*C
+Thermistor resistance 642.006020
+4 Temperature: 102.946551*C
+Thermistor resistance 653.090862
+5 Temperature: 102.334536*C
+
